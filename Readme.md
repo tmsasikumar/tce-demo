@@ -14,3 +14,11 @@
 **To start the application
 
    python -m flask run
+
+**Git Commands
+    * git status for seeing changes
+    * git add (-p/filename) for adding changes
+    * git commit -m "Commit message" to commit changes.
+    * git log (to see all commits)
+    * git checkout sha (to go to a commit)
+    * git checkout master
