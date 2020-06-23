@@ -10,3 +10,7 @@
 
     *pip install --upgrade pip
     *pip install -r requirements.txt
+
+**To start the application
+
+   python -m flask run
