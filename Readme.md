@@ -22,3 +22,6 @@
     * git log (to see all commits)
     * git checkout sha (to go to a commit)
     * git checkout master
+
+** To run the tests
+   * python app_test.py
